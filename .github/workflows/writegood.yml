@@ -6,7 +6,7 @@ on:
     branches:
       - main
 
-name: 'Trigger: Push action'
+name: 'Write Good Action'
 jobs:
   write_good_job:
     runs-on: ubuntu-latest
