@@ -2,6 +2,8 @@
 
 Trying to display this README through github pages.
 
+This is an intentional misteak to test the action.
+
 ## Heading 1
 
 Random text goes here.
